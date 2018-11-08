@@ -1,1 +1,1 @@
-# CSCI-8820-Computer-Vision-
+# CSCI-8820-Computer-Vision
